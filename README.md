@@ -11,3 +11,5 @@ Through the use of DAIN, we can analyze the artists work to determine their curr
 
 Demo Video:
 https://youtu.be/lCVqoLcaECw
+
+DAIN Documentation: https://docs.dain.org/docs/getting-started/introduction
