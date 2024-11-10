@@ -1,5 +1,4 @@
-# HackSC-DAIN-Implementation
-# SketchTune: Feel your Creations
+# SketchTune: Feel your Creations (DAIN)
 
 ## Elevator Pitch
 Artists often express their feelings through their craft. Using music to amplify the emotions that fuel their art allows artists to fully immerse into their creations.
