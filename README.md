@@ -15,7 +15,7 @@ Through the use of DAIN, we can analyze the artists work to determine their curr
 ## SketchTune UI
 https://github.com/noahpin/sketchtune/blob/main/README.md
 
-Demo Video:
+DAIN Demo Video:
 https://youtu.be/lCVqoLcaECw
 
 ### Tech Stack
